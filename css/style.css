@@ -1,0 +1,46 @@
+body {
+background-color: black;
+cursor: url('../images/cursor.png') 64 64, auto;
+}
+
+.btn {
+background-color: #000000;
+cursor: url('../images/cursor.png') 64 64, auto;
+padding: 20px;
+border-radius: 20%;
+border:15px solid #ffffff;
+}
+
+.btn:hover {
+background-color: #ffffff;
+cursor: url('../images/cursor.png') 64 64, auto;
+padding: 20px;
+border-radius: 20%;
+border:15px solid #ffffff;
+}
+
+.btn-discord {
+margin-right: 10px;
+}
+
+.btn-instagram {
+margin-right: 10px;
+margin-left: 10px;
+}
+
+.btn-twitter {
+margin-left: 10px;
+}
+
+.btn-tiktok {
+margin-right: 10px;
+}
+
+.btn-youtube {
+margin-right: 10px;
+margin-left: 10px;
+}
+
+.btn-twitch {
+margin-left: 10px;
+}
