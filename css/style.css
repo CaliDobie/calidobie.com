@@ -1,0 +1,48 @@
+html {
+    cursor: url('../images/cursor.png') 32 32, auto;
+}
+body {
+    background-color: black;
+    cursor: url('../images/cursor.png') 32 32, auto;
+}
+.btn {
+    background-color: #000000;
+    cursor: url('../images/cursor.png') 32 32, auto;
+    padding: 20px;
+    border-radius: 20%;
+    border:15px solid #ffffff;
+    margin: 5px 10px;
+}
+
+.btn:hover {
+    background-color: #ffffff;
+    cursor: url('../images/cursor.png') 32 32, auto;
+}
+
+.btn-discord {
+
+}
+
+.btn-instagram {
+
+}
+
+.btn-twitter {
+
+}
+
+.btn-tiktok {
+
+}
+
+.btn-youtube {
+
+}
+
+.btn-twitch {
+
+}
+
+.center {
+    text-align: center;
+}
