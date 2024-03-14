@@ -1,10 +1,12 @@
 html {
     cursor: url('../images/cursor.png') 32 32, auto;
 }
+
 body {
     background-color: black;
     cursor: url('../images/cursor.png') 32 32, auto;
 }
+
 .btn {
     background-color: #000000;
     cursor: url('../images/cursor.png') 32 32, auto;
